@@ -6,5 +6,7 @@ The file is a Python script used for reading a txt file.
 - the total score of each student is calculated in line 13th.
 -the average is also calculated, and if the avg is less than 50 it should print a remark on the terminal(line 15th-20th
 
+Then the class.py file is just me playing around hou objects work in python
+
 
 THANK YOU !!!!
